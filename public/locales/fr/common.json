@@ -1,0 +1,62 @@
+{
+  "app": {
+    "name": "Subscription Manager Pro",
+    "description": "Gérez tous vos abonnements en un seul endroit"
+  },
+  "nav": {
+    "dashboard": "Tableau de bord",
+    "subscriptions": "Abonnements",
+    "categories": "Catégories",
+    "analytics": "Analyses",
+    "settings": "Paramètres",
+    "admin": "Panneau d'administration"
+  },
+  "auth": {
+    "signIn": "Se connecter",
+    "signOut": "Se déconnecter",
+    "signUp": "S'inscrire",
+    "email": "Email",
+    "password": "Mot de passe",
+    "forgotPassword": "Mot de passe oublié?",
+    "noAccount": "Vous n'avez pas de compte?",
+    "hasAccount": "Vous avez déjà un compte?"
+  },
+  "dashboard": {
+    "welcome": "Bon retour",
+    "monthlySpending": "Dépenses mensuelles",
+    "yearlySpending": "Dépenses annuelles",
+    "activeSubscriptions": "Abonnements actifs",
+    "upcomingRenewals": "Renouvellements à venir",
+    "recentActivity": "Activité récente"
+  },
+  "subscriptions": {
+    "title": "Mes abonnements",
+    "addNew": "Ajouter un abonnement",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "cancel": "Annuler",
+    "name": "Nom",
+    "price": "Prix",
+    "billingCycle": "Cycle de facturation",
+    "nextBilling": "Date de prochaine facturation",
+    "category": "Catégorie",
+    "status": "Statut"
+  },
+  "common": {
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "add": "Ajouter",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "monthly": "Mensuel",
+    "yearly": "Annuel",
+    "active": "Actif",
+    "cancelled": "Annulé",
+    "paused": "En pause"
+  }
+}

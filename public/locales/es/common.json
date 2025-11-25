@@ -1,0 +1,62 @@
+{
+  "app": {
+    "name": "Subscription Manager Pro",
+    "description": "Gestiona todas tus suscripciones en un solo lugar"
+  },
+  "nav": {
+    "dashboard": "Panel",
+    "subscriptions": "Suscripciones",
+    "categories": "Categorías",
+    "analytics": "Análisis",
+    "settings": "Configuración",
+    "admin": "Panel de administración"
+  },
+  "auth": {
+    "signIn": "Iniciar sesión",
+    "signOut": "Cerrar sesión",
+    "signUp": "Registrarse",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "noAccount": "¿No tienes una cuenta?",
+    "hasAccount": "¿Ya tienes una cuenta?"
+  },
+  "dashboard": {
+    "welcome": "Bienvenido de nuevo",
+    "monthlySpending": "Gastos mensuales",
+    "yearlySpending": "Gastos anuales",
+    "activeSubscriptions": "Suscripciones activas",
+    "upcomingRenewals": "Renovaciones próximas",
+    "recentActivity": "Actividad reciente"
+  },
+  "subscriptions": {
+    "title": "Mis suscripciones",
+    "addNew": "Añadir suscripción",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "cancel": "Cancelar",
+    "name": "Nombre",
+    "price": "Precio",
+    "billingCycle": "Ciclo de facturación",
+    "nextBilling": "Próxima fecha de facturación",
+    "category": "Categoría",
+    "status": "Estado"
+  },
+  "common": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "add": "Añadir",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "monthly": "Mensual",
+    "yearly": "Anual",
+    "active": "Activo",
+    "cancelled": "Cancelado",
+    "paused": "Pausado"
+  }
+}

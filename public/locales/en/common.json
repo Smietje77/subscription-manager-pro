@@ -1,0 +1,62 @@
+{
+  "app": {
+    "name": "Subscription Manager Pro",
+    "description": "Manage all your subscriptions in one place"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "subscriptions": "Subscriptions",
+    "categories": "Categories",
+    "analytics": "Analytics",
+    "settings": "Settings",
+    "admin": "Admin Panel"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "signUp": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "monthlySpending": "Monthly Spending",
+    "yearlySpending": "Yearly Spending",
+    "activeSubscriptions": "Active Subscriptions",
+    "upcomingRenewals": "Upcoming Renewals",
+    "recentActivity": "Recent Activity"
+  },
+  "subscriptions": {
+    "title": "My Subscriptions",
+    "addNew": "Add Subscription",
+    "edit": "Edit",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "name": "Name",
+    "price": "Price",
+    "billingCycle": "Billing Cycle",
+    "nextBilling": "Next Billing Date",
+    "category": "Category",
+    "status": "Status"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "search": "Search",
+    "filter": "Filter",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "active": "Active",
+    "cancelled": "Cancelled",
+    "paused": "Paused"
+  }
+}

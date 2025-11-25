@@ -1,0 +1,62 @@
+{
+  "app": {
+    "name": "Subscription Manager Pro",
+    "description": "Beheer al je abonnementen op één plek"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "subscriptions": "Abonnementen",
+    "categories": "Categorieën",
+    "analytics": "Analyses",
+    "settings": "Instellingen",
+    "admin": "Beheerpaneel"
+  },
+  "auth": {
+    "signIn": "Inloggen",
+    "signOut": "Uitloggen",
+    "signUp": "Registreren",
+    "email": "E-mail",
+    "password": "Wachtwoord",
+    "forgotPassword": "Wachtwoord vergeten?",
+    "noAccount": "Nog geen account?",
+    "hasAccount": "Heb je al een account?"
+  },
+  "dashboard": {
+    "welcome": "Welkom terug",
+    "monthlySpending": "Maandelijkse uitgaven",
+    "yearlySpending": "Jaarlijkse uitgaven",
+    "activeSubscriptions": "Actieve abonnementen",
+    "upcomingRenewals": "Aankomende verlengingen",
+    "recentActivity": "Recente activiteit"
+  },
+  "subscriptions": {
+    "title": "Mijn abonnementen",
+    "addNew": "Abonnement toevoegen",
+    "edit": "Bewerken",
+    "delete": "Verwijderen",
+    "cancel": "Opzeggen",
+    "name": "Naam",
+    "price": "Prijs",
+    "billingCycle": "Facturatiecyclus",
+    "nextBilling": "Volgende factuurdatum",
+    "category": "Categorie",
+    "status": "Status"
+  },
+  "common": {
+    "save": "Opslaan",
+    "cancel": "Annuleren",
+    "delete": "Verwijderen",
+    "edit": "Bewerken",
+    "add": "Toevoegen",
+    "search": "Zoeken",
+    "filter": "Filteren",
+    "loading": "Laden...",
+    "error": "Fout",
+    "success": "Succes",
+    "monthly": "Maandelijks",
+    "yearly": "Jaarlijks",
+    "active": "Actief",
+    "cancelled": "Geannuleerd",
+    "paused": "Gepauzeerd"
+  }
+}

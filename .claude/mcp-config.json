@@ -1,0 +1,55 @@
+{
+  "mcpServers": [
+    {
+      "id": "desktop-commander",
+      "name": "Desktop Commander",
+      "required": true,
+      "enabled": true,
+      "description": "Comprehensive file system operations, terminal access, and process management",
+      "capabilities": [
+        "File read/write/edit operations",
+        "Directory management",
+        "File search (content and names)",
+        "Terminal command execution",
+        "Process management",
+        "Interactive REPL sessions",
+        "Configuration management"
+      ]
+    },
+    {
+      "id": "github",
+      "name": "GitHub MCP",
+      "required": true,
+      "enabled": true,
+      "description": "Complete GitHub repository management and collaboration",
+      "capabilities": [
+        "Repository creation and management",
+        "File operations (CRUD)",
+        "Branch management",
+        "Pull request workflows",
+        "Issue tracking",
+        "Code search",
+        "Release management",
+        "Collaboration features"
+      ]
+    },
+    {
+      "id": "supabase",
+      "name": "Supabase MCP",
+      "required": true,
+      "enabled": true,
+      "description": "PostgreSQL database, authentication, storage, and backend services",
+      "capabilities": [
+        "Database schema management",
+        "SQL query execution",
+        "Migrations and versioning",
+        "Real-time subscriptions",
+        "Authentication management",
+        "File storage",
+        "Edge Functions deployment",
+        "Performance monitoring",
+        "Row-level security (RLS)"
+      ]
+    }
+  ]
+}
