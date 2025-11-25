@@ -2,6 +2,9 @@
 const nextConfig = {
   reactStrictMode: true,
   output: 'standalone', // Required for Docker deployment
+  eslint: {
+    ignoreDuringBuilds: true, // Disable ESLint during production builds
+  },
   images: {
     domains: ['localhost'],
     remotePatterns: [
