@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  output: 'standalone', // Required for Docker deployment
+  // output: 'standalone' removed - not needed for Nixpacks deployment
   eslint: {
     ignoreDuringBuilds: true, // Disable ESLint during production builds
   },
