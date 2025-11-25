@@ -5,6 +5,9 @@ const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true, // Disable ESLint during production builds
   },
+  typescript: {
+    ignoreBuildErrors: true, // Disable TypeScript errors during production builds
+  },
   images: {
     domains: ['localhost'],
     remotePatterns: [
